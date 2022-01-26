@@ -16,5 +16,12 @@
             "kodebeskrivelse": "Besluttet offentlig ettersyn"
         },
         "navn": "navn på registrering"
-    }
+    },
+    "plandokument": [
+        {
+            "tittel": "Vedtak",
+            "dokumenttype": "pdf",
+            "referanseDokumentfil": "vedtak.pdf"
+        }
+    ]
 }

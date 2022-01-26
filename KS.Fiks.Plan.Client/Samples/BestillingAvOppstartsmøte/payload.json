@@ -20,5 +20,27 @@
             "kodebeskrivelse": "Mottatt planinitiativ/Bestilling av oppstartsmøte"
         },
         "navn": "navn på registrering"
-    }
+    },
+    "plandokument": [
+        {
+            "tittel": "Planinitiativ",
+            "dokumenttype": "pdf",
+            "referanseDokumentfil": "Planinitiativ.pdf"
+        },
+        {
+            "tittel": "Planbeskrivelse",
+            "dokumenttype": "pdf",
+            "referanseDokumentfil": "Planbeskrivelse.pdf"
+        },
+        {
+            "tittel": "PlanKart",
+            "dokumenttype": "pdf",
+            "referanseDokumentfil": "PlanKart.pdf"
+        },
+        {
+            "tittel": "Planbestemmelse",
+            "dokumenttype": "pdf",
+            "referanseDokumentfil": "Planbestemmelse.pdf"
+        }
+    ]
 }
