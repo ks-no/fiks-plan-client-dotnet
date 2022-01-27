@@ -47,7 +47,7 @@
             "tittel": "PlanKart",
             "dokumenttype": {
                 "kodeverdi": "KART",
-                "kodebeskrivelse": "Kar"
+                "kodebeskrivelse": "Kart"
             },
             "referanseDokumentfil": "PlanKart.pdf"
         },

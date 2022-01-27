@@ -22,7 +22,7 @@
             "tittel": "Klage",
             "dokumenttype": {
                 "kodeverdi": "KLAGE",
-                "kodebeskrivelse": "klage"
+                "kodebeskrivelse": "Klage"
             },
             "referanseDokumentfil": "Klage.pdf"
         }
