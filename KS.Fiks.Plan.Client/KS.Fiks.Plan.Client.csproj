@@ -54,8 +54,11 @@
 		<None Remove="Samples\KunngjøringAvOffentligEttersyn\reguleringsplan_brev_hoering_offentlig_ettersyn_bokm_mal.doc" />
 		<None Remove="Samples\KunngjøringAvPlanvedtak\Attachments\reguleringsplan_brev_melding_endelig_vedtak_med_informasjon_klagerett_bokm_mal.doc" />
 		<None Remove="Samples\KunngjøringAvPlanvedtak\payload.json" />
+		<None Remove="Samples\KunngjøringOgVarslingAvPlanoppstart\Attachments\reguleringsplan_brev_melding_endelig_vedtak_med_informasjon_klagerett_bokm_mal.doc" />
 		<None Remove="Samples\KunngjøringOgVarslingAvPlanoppstart\payload.json" />
+		<None Remove="Samples\MottattInnsigelse\Attachments\Innsigelse.pdf" />
 		<None Remove="Samples\MottattInnsigelse\payload.json" />
+		<None Remove="Samples\MottattKlage\Attachments\Klage.pdf" />
 		<None Remove="Samples\MottattKlage\payload.json" />
 		<None Remove="Samples\OppdaterArealplan\payload.json" />
 		<None Remove="Samples\OppdaterDispensasjon\payload.json" />
@@ -250,15 +253,26 @@
 			<Pack>true</Pack>
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
+		<EmbeddedResource Include="Samples\KunngjøringOgVarslingAvPlanoppstart\Attachments\reguleringsplan_brev_melding_endelig_vedtak_med_informasjon_klagerett_bokm_mal.doc">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		  <PackageCopyToOutput>true</PackageCopyToOutput>
+		  <Pack>true</Pack>
+		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\KunngjøringOgVarslingAvPlanoppstart\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 			<Pack>true</Pack>
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
+		<EmbeddedResource Include="Samples\MottattInnsigelse\Attachments\Innsigelse.pdf">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\MottattInnsigelse\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 			<Pack>true</Pack>
 			<PackageCopyToOutput>true</PackageCopyToOutput>
+		</EmbeddedResource>
+		<EmbeddedResource Include="Samples\MottattKlage\Attachments\Klage.pdf">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\MottattKlage\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>

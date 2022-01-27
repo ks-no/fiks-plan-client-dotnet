@@ -29,22 +29,34 @@
         },
         {
             "tittel": "Kunngjøring",
-            "dokumenttype": "pdf",
+            "dokumenttype": {
+                "kodeverdi": "KUNNGJ",
+                "kodebeskrivelse": "Kunngjøring"
+            },
             "referanseDokumentfil": "Kunngjøring.pdf"
         },
         {
             "tittel": "Planbeskrivelse",
-            "dokumenttype": "pdf",
+            "dokumenttype": {
+                "kodeverdi": "PLANBESKR",
+                "kodebeskrivelse": "Planbeskrivelse"
+            },
             "referanseDokumentfil": "Planbeskrivelse.pdf"
         },
         {
             "tittel": "PlanKart",
-            "dokumenttype": "pdf",
+            "dokumenttype": {
+                "kodeverdi": "KART",
+                "kodebeskrivelse": "Kar"
+            },
             "referanseDokumentfil": "PlanKart.pdf"
         },
         {
             "tittel": "Planbestemmelse",
-            "dokumenttype": "pdf",
+            "dokumenttype": {
+                "kodeverdi": "PLANBEST",
+                "kodebeskrivelse": "Bestemmelser"
+            },
             "referanseDokumentfil": "Planbestemmelse.pdf"
         }
     ]

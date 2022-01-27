@@ -24,22 +24,34 @@
     "plandokument": [
         {
             "tittel": "Planinitiativ",
-            "dokumenttype": "pdf",
+            "dokumenttype": {
+                "kodeverdi": "",
+                "kodebeskrivelse": ""
+            },
             "referanseDokumentfil": "Planinitiativ.pdf"
         },
         {
             "tittel": "Planbeskrivelse",
-            "dokumenttype": "pdf",
+            "dokumenttype": {
+                "kodeverdi": "PLANBESKR",
+                "kodebeskrivelse": "Planbeskrivelse"
+            },
             "referanseDokumentfil": "Planbeskrivelse.pdf"
         },
         {
             "tittel": "PlanKart",
-            "dokumenttype": "pdf",
+            "dokumenttype": {
+                "kodeverdi": "KART",
+                "kodebeskrivelse": "Kart"
+            },
             "referanseDokumentfil": "PlanKart.pdf"
         },
         {
             "tittel": "Planbestemmelse",
-            "dokumenttype": "pdf",
+            "dokumenttype": {
+                "kodeverdi": "PLANBEST",
+                "kodebeskrivelse": "Bestemmelser"
+            },
             "referanseDokumentfil": "Planbestemmelse.pdf"
         }
     ]
