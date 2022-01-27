@@ -135,9 +135,9 @@
 
 	<ItemGroup>
 		<EmbeddedResource Include="Samples\BesluttetOffentligEttersyn\Attachments\vedtak.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		  <PackageCopyToOutput>true</PackageCopyToOutput>
-		  <Pack>true</Pack>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
+			<Pack>true</Pack>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\BesluttetOffentligEttersyn\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -145,16 +145,24 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\BestillingAvOppstartsmøte\Attachments\Planbeskrivelse.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\BestillingAvOppstartsmøte\Attachments\Planbestemmelse.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\BestillingAvOppstartsmøte\Attachments\Planinitiativ.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\BestillingAvOppstartsmøte\Attachments\Plankart.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\BestillingAvOppstartsmøte\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -237,16 +245,24 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\KunngjøringAvOffentligEttersyn\Attachments\Kunngjøring.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\KunngjøringAvOffentligEttersyn\Attachments\Planbeskrivelse.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\KunngjøringAvOffentligEttersyn\Attachments\Planbestemmelse.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\KunngjøringAvOffentligEttersyn\Attachments\Plankart.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\KunngjøringAvOffentligEttersyn\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -259,9 +275,9 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\KunngjøringAvPlanvedtak\Attachments\reguleringsplan_brev_melding_endelig_vedtak_med_informasjon_klagerett_bokm_mal.doc">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		  <PackageCopyToOutput>true</PackageCopyToOutput>
-		  <Pack>true</Pack>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
+			<Pack>true</Pack>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\KunngjøringAvPlanvedtak\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -269,9 +285,9 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\KunngjøringOgVarslingAvPlanoppstart\Attachments\reguleringsplan_brev_melding_endelig_vedtak_med_informasjon_klagerett_bokm_mal.doc">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		  <PackageCopyToOutput>true</PackageCopyToOutput>
-		  <Pack>true</Pack>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
+			<Pack>true</Pack>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\KunngjøringOgVarslingAvPlanoppstart\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -279,7 +295,9 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\MottattInnsigelse\Attachments\Innsigelse.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\MottattInnsigelse\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -287,7 +305,9 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\MottattKlage\Attachments\Klage.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\MottattKlage\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -300,12 +320,14 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\OppdaterDispensasjon\Attachments\Klage.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\OppdaterDispensasjon\Attachments\reguleringsplan_brev_melding_endelig_vedtak_med_informasjon_klagerett_bokm_mal.doc">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		  <PackageCopyToOutput>true</PackageCopyToOutput>
-		  <Pack>true</Pack>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
+			<Pack>true</Pack>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\OppdaterDispensasjon\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -323,9 +345,9 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\PlanforslagAvvist\Attachments\reguleringsplan_brev_melding_endelig_vedtak_med_informasjon_klagerett_bokm_mal.doc">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		  <PackageCopyToOutput>true</PackageCopyToOutput>
-		  <Pack>true</Pack>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
+			<Pack>true</Pack>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\PlanforslagAvvist\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -333,13 +355,19 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\PlanforslagTattTilBehandling\Attachments\Planbeskrivelse.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\PlanforslagTattTilBehandling\Attachments\Planbestemmelse.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\PlanforslagTattTilBehandling\Attachments\Plankart.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\PlanforslagTattTilBehandling\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -347,9 +375,9 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\PlaninitiativStoppet\Attachments\vedtak.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		  <PackageCopyToOutput>true</PackageCopyToOutput>
-		  <Pack>true</Pack>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
+			<Pack>true</Pack>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\PlaninitiativStoppet\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -357,10 +385,14 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\PlanleggingIgangsatt\Attachments\Planinitiativ.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\PlanleggingIgangsatt\Attachments\Planprogram.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\PlanleggingIgangsatt\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -368,7 +400,9 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\PlanvedtakIkraftsatt\Attachments\Vedtak.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\PlanvedtakIkraftsatt\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -376,7 +410,9 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\PlanvedtakMedUtsattRettsvirkning\Attachments\Vedtak.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\PlanvedtakMedUtsattRettsvirkning\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -384,16 +420,24 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\Planvedtak\Attachments\Planbeskrivelse.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\Planvedtak\Attachments\Planbestemmelse.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\Planvedtak\Attachments\Plankart.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\Planvedtak\Attachments\Vedtak.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\Planvedtak\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -406,7 +450,7 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\RegistrerDispensasjonFraPlan\Attachments\vedtak.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 			<Pack>true</Pack>
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
@@ -421,7 +465,9 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\RegistrerPlanavgrensing\Attachments\Plankart.pdf">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Samples\RegistrerPlanavgrensing\payload.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -439,14 +485,14 @@
 			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Schema\no.ks.fiks.gi.plan.v2.oppdatering.dispensasjonplan.resultat.schema.json">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		  <PackageCopyToOutput>true</PackageCopyToOutput>
-		  <Pack>true</Pack>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
+			<Pack>true</Pack>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Schema\no.ks.fiks.gi.plan.v2.innsyn.arealplan.resultat.schema.json">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		  <PackageCopyToOutput>true</PackageCopyToOutput>
-		  <Pack>true</Pack>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
+			<Pack>true</Pack>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Schema\no.ks.fiks.gi.plan.v2.innsyn.aktoerer.resultat.schema.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
