@@ -531,6 +531,8 @@
 		</EmbeddedResource>
 		<EmbeddedResource Include="Schema\no.ks.fiks.gi.plan.v2.innsyn.midlertidigforbud.resultat.schema.json">
 		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<Pack>true</Pack>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
 		</EmbeddedResource>
 		<EmbeddedResource Include="Schema\no.ks.fiks.gi.plan.v2.innsyn.planerforadresse.finn.schema.json">
 		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
