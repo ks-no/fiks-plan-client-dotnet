@@ -31,7 +31,8 @@
         {
             "tittel": "Vedtak",
             "dokumenttype": "pdf",
-            "referanseDokumentfil": "vedtak.pdf"
+            "referanseDokumentfil": "vedtak.pdf",
+            "arkivnavn": "Vedtak"
         }
     ]
 }
